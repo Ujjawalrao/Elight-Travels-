@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.destination-rail {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.destination-rail::-webkit-scrollbar {
+  display: none;
+}
